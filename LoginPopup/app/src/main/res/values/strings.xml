@@ -2,4 +2,6 @@
     <string name="app_name">LoginPopup</string>
     <string name="login">Login</string>
     <string name="signup">Signup</string>
+    <string name="login_details">This is login Activity</string>
+    <string name="signup_details">This is signup activity</string>
 </resources>
